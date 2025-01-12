@@ -1,0 +1,7 @@
+# It should adhere to [Arduino style][1], but this is the minimum I consider
+# reasonable for maintaining both readability and clarity.
+#
+# [1]: <https://raw.githubusercontent.com/arduino/tooling-project-assets/main/other/clang-format-configuration/.clang-format>
+
+AllowShortFunctionsOnASingleLine: true
+ColumnLimit: 80
